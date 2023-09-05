@@ -50,7 +50,7 @@
   "navigation": [
     {
       "group": "Seminar Topic",
-      "pages": ["introduction", "quickstart", "development","seminar"]
+      "pages": ["introduction", "quickstart", "development","seminar","cbdc"]
     },
     {
       "group": "Essentials",
